@@ -1,11 +1,5 @@
 # Real Estate Analysis Project
 
-## Group KTRolster
-
-1. Vu Ha Phuong - Student ID: 104177306
-2. Nguyen Luong Nhat Minh - Student ID: 104180357
-3. Nguyen Hong Anh - Student ID: 104359382
-
 ## Project Background
 
 In today's market, more people are interested in buying homes or learning about real estate for investment. However, real estate is complex, and even experienced buyers can struggle to track market trends and assess property values accurately. Websites like Real Estate and Allhomes offer information on housing, but they primarily focus on existing properties. None provide tools for estimating the value of a new home based on personal criteria or predicting the profitability of real estate investments.
